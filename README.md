@@ -46,3 +46,14 @@ campanhas utilizando Python e a API Meta Ads.
 Desenvolver soluções em análise de dados,
 automação de processos e tecnologia que
 contribuam para a eficiência das empresas.
+
+---
+
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/walissonsr)
+
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/walisson.ribeiro.tech/)
