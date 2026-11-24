@@ -12,6 +12,20 @@ Desenvolvendo soluções em tecnologia, dados e automação de processos.
 
 ---
 
+## 👨‍💻 Sobre mim
+
+Sou formado em Gestão Financeira, com experiência em
+compras, controle de estoque, processos administrativos
+e marketing digital.
+
+Tenho conhecimentos em Python, Excel e análise de dados,
+com foco no desenvolvimento de automações que simplifiquem
+tarefas, organizem informações e melhorem a eficiência
+dos processos empresariais.
+
+Atualmente, estou aprimorando minhas habilidades em
+programação e desenvolvendo projetos para aplicar
+tecnologia na resolução de problemas reais.
 
 ---
 
