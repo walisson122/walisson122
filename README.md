@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**walisson122/walisson122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, sou Walisson Ribeiro! 👋
 
-Here are some ideas to get you started:
+### Gestão Financeira | Python | Análise de Dados | Automação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou formado em Gestão Financeira, com experiência em
+compras, controle de estoque, processos administrativos
+e marketing digital.
+
+Atualmente, desenvolvo projetos utilizando Python
+e ferramentas de análise de dados para automatizar
+tarefas, otimizar processos e apoiar decisões empresariais.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- **Programação:** Python
+- **Análise de Dados:** Pandas, NumPy e Excel
+- **Aplicações:** Streamlit
+- **Integrações:** APIs REST e Meta Ads
+- **Versionamento:** Git e GitHub
+
+---
+
+## 💻 Projetos
+
+### 📋 Sistema de Cadastro de Clientes
+Aplicação desenvolvida com Python, Streamlit e Pandas
+para cadastro e consulta de clientes.
+
+**Status:** Em desenvolvimento.
+
+### 📊 Automação de Relatórios
+Automação de coleta e tratamento de dados de
+campanhas utilizando Python e a API Meta Ads.
+
+**Status:** Em organização para o portfólio.
+
+---
+
+## 🎯 Objetivos profissionais
+
+Desenvolver soluções em análise de dados,
+automação de processos e tecnologia que
+contribuam para a eficiência das empresas.
