@@ -1,15 +1,17 @@
 
-# Olá, sou Walisson Ribeiro! 👋
+
+<div align="center">
+
+# Walisson Ribeiro
 
 ### Gestão Financeira | Python | Análise de Dados | Automação
 
-Sou formado em Gestão Financeira, com experiência em
-compras, controle de estoque, processos administrativos
-e marketing digital.
+Desenvolvendo soluções em tecnologia, dados e automação de processos.
 
-Atualmente, desenvolvo projetos utilizando Python
-e ferramentas de análise de dados para automatizar
-tarefas, otimizar processos e apoiar decisões empresariais.
+</div>
+
+---
+
 
 ---
 
